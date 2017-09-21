@@ -14,3 +14,13 @@ A chatbot whose responses mimic personality of popular TV series characters.
 - Built a 3 Layer LSTM RNN, trained it on the sequences (as X) and the next alphanumeric character (as y)
 - Given a seed input (a short sequence) from the script, the model predicts one alphanumeric character at a time
 *algorithm credits- fchollet*
+
+## Next Steps-
+- Do word predictions instead of alphanumeric characters
+- Grasp the context of the conversation better
+- Add attention to the LSTM model
+- Stateful LSTMs
+
+## Applications-
+- Script writing tool
+- Mimic professionals such as psychologists, salesmen
