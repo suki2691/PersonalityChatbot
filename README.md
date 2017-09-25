@@ -13,7 +13,7 @@ A chatbot whose responses mimic personality of popular TV series characters.
 - Converted the script text into short sequences
 - Built a 3 Layer LSTM RNN, trained it on the sequences (as X) and the next alphanumeric character (as y)
 - Given a seed input (a short sequence) from the script, the model predicts one alphanumeric character at a time
-*algorithm credits- fchollet*
+*credits- [fchollet](https://github.com/fchollet/keras/blob/master/examples/lstm_text_generation.py)*
 
 ## Next Steps-
 - Do word predictions instead of alphanumeric characters
