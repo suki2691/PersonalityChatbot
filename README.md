@@ -1,5 +1,6 @@
 # PersonalityChatbot
-A chatbot whose responses mimic personality of popular TV series characters. Here's the [demo link](https://joeysbot.herokuapp.com/)
+A chatbot whose responses mimic personality of popular TV series characters. 
+- Here's the [demo link](https://joeysbot.herokuapp.com/). Right now, the app takes lowercase inputs only
 
 ## Data Sources-
 - [F.R.I.E.N.D.S. transcripts](https://fangj.github.io/friends/)
